@@ -71,5 +71,15 @@ You can download the game from itch.io:
 - Then click **Run Anyway**
 
 ## 📌 Notes
+### For Unity Users
 
-This project was developed as part of a Game Development course.
+If the scene does not load automatically when opening the project:
+
+1. Go to the **Project panel**
+2. Navigate to:  
+   `Assets → Scenes`
+3. Double-click on **MainMenu** scene
+4. Press **Play**
+
+This ensures the correct scene is loaded before running the game.
+**This project was developed as part of a Game Development course.**
