@@ -1,10 +1,10 @@
-# 🎮 Maze Escape
+# Maze Escape
 
 Maze Escape is a 3D First-Person game developed using Unity, where the player must navigate through a maze, collect gems, and reach the exit before time runs out.
 
 ---
 
-## 🕹️ Gameplay
+## Gameplay
 
 - Explore a maze environment
 - Collect gems to progress
@@ -13,7 +13,7 @@ Maze Escape is a 3D First-Person game developed using Unity, where the player mu
 
 ---
 
-## 🎮 Controls
+## Controls
 
 - **W A S D** → Move  
 - **Mouse** → Look around  
@@ -21,7 +21,7 @@ Maze Escape is a 3D First-Person game developed using Unity, where the player mu
 
 ---
 
-## ⏱️ Game Mechanics
+## Game Mechanics
 
 - Countdown timer adds urgency
 - Win condition: reach the exit
@@ -30,7 +30,7 @@ Maze Escape is a 3D First-Person game developed using Unity, where the player mu
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - Unity (Game Engine)
 - C# (Scripting)
@@ -38,24 +38,24 @@ Maze Escape is a 3D First-Person game developed using Unity, where the player mu
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
 **Fatima Alaiwi**  
 
 ---
 
-## 🎯 Goal
+## Goal
 
 Collect all required gems and reach the exit before time runs out!
 
 ---
-## 🎮 How to Play / Run the Game
+## How to Play / Run the Game
 
 You can download the game from itch.io:
 
 👉 [https://fatima-alaiwi.itch.io/maze-escape](https://fatima-alaiwi.itch.io/maze-escape)
 
-### 📥 Steps to run the game:
+### Steps to run the game:
 
 1. Open the link above  
 2. Click **Download**  
