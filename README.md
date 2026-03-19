@@ -82,4 +82,5 @@ If the scene does not load automatically when opening the project:
 4. Press **Play**
 
 This ensures the correct scene is loaded before running the game.
+
 **This project was developed as part of a Game Development course.**
